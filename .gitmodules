@@ -1,0 +1,3 @@
+[submodule "nlohmann_json"]
+	path = json
+	url = https://gitee.com/bt-server/json.git
